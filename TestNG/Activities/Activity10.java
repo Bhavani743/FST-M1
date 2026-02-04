@@ -1,3 +1,5 @@
+package example;
+
 import static org.testng.Assert.assertEquals;
 import java.io.FileInputStream;
 import java.time.Duration;
@@ -103,3 +105,4 @@ public class Activity10 {
         driver.quit();
     }
 }
+
